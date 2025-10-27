@@ -63,6 +63,16 @@ https://hub.appwrite.network
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
 
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+![Homepage](1.png)
+![Browse available functionalities](2.png)
+![Functionality page](3a.png)
+![Install functionality](3b.png)
+![Dashboard](4.png)
+![Link project](5.png)
+![Dashboard - linking in progress](6a.png)
+![Project page - linking in progress](6b.png)
+![Project page - active / linking done](7a.png)
+![Project page - actions available](7b.png)
+![What was installed in linked project](8.png)
+
+
