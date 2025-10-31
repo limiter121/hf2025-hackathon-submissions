@@ -27,7 +27,7 @@ There are many features planned but not finished during Hacktoberfest, such as: 
 ## Inspiration behind the Project  
 _What is the story behind this project? Why did you choose to work on this specific idea?_
 
-The reason I chose this idea was because I love Appwrite and wanted a simple solution to add common features (ex. CMS) in my Appwrite projects. Using the Appwrite CLI to push/pull changes to services is great so I built upon that.
+The reason I chose this idea was because I love Appwrite and wanted a simple solution to add common features (ex. CMS) in my Appwrite projects. Using the Appwrite CLI to push/pull changes to services is great so I built upon that. I like the idea of the Appwrite provided Templates (Functions, Sites) and want a more complete template (to include all services: DB, Functions, Sites, etc.).
 
 ## Tech Stack    
 _How have you built this project? Mention the technologies/methods/platforms you used to build your project_
